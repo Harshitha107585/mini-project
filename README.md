@@ -1,40 +1,43 @@
-# Tailstore - Free Tailwind CSS eCommerce Template
-#### Preview
+# Mini Project
 
- - [Demo](https://themewagon.github.io/tailstore/)
+## 🌐 Website Deployment using Amazon S3
 
-#### Download
- - [Download from ThemeWagon](https://themewagon.com/themes/tailstore/)
+This project is a static website that was deployed and hosted using **Amazon S3 (Simple Storage Service)**.
 
-## Getting Started
+## 🛠️ Technologies Used
 
-1. Clone Repository
-```
-git clone https://github.com/themewagon/tailstore.git
-```
-2. Install Dependencies
-```
-npm i
-```
-3. Run the development server:
+- HTML
+- CSS
+- JavaScript
+- Amazon S3
+- Git & GitHub
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## ☁️ Deployment using AWS S3
 
-## Author 
-```
-Design and code is completely written by Maksim M and development team. 
-```
+The website was deployed using an Amazon S3 bucket.
 
-## License
+### Deployment Steps
 
- - Design and Code is Copyright &copy; <a href="https://github.com/spacemadev" target="_blank">Maksim M</a>
- - Licensed cover under [MIT]
- - Distributed by <a href="https://themewagon.com" target="_blank">ThemeWagon</a>
+1. Created an Amazon S3 bucket.
+2. Configured the bucket for website hosting.
+3. Uploaded the website files to the S3 bucket.
+4. Used the S3 bucket to host the static website.
+
+## 📸 Deployment Screenshots
+
+### 1. S3 Bucket Created
+
+The screenshot below shows the S3 bucket created for hosting the website.
+
+![S3 Bucket Created](images/s3-bucket.png)
+
+### 2. Website Files Uploaded
+
+The screenshot below shows the website files uploaded to the S3 bucket.
+
+![Files Uploaded to S3](images/s3-files.png)
+
+## 🚀 Hosting
+
+**Hosting Platform:** Amazon S3  
+**Version Control:** GitHub
